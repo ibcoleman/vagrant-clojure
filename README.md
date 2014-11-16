@@ -28,3 +28,10 @@ export DISPLAY=10.0.2.2:0.0
 emacs &
 ```
 Should launch a new emacs session on the host machine... So long as you have a local X11 installation, that is. Cygwin is working pretty well so far...
+
+
+To add Scala support (if you're into that sort of thing):
+```bash
+wget https://dl.bintray.com/sbt/debian/sbt-0.13.6.deb -O /tmp/sbt-0.13.6.deb
+sudo dpkg -i !$
+```
