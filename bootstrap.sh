@@ -7,6 +7,8 @@ apt-get install -y clojure
 apt-get install -y default-jdk
 apt-get install -y x11-xserver-utils
 apt-get install -y xterm
+apt-get install -y git subversion
+apt-get install -y scala
 
 echo "Copying .emacs.d directory from host machine..."
 cp -Rvp /vagrant/.emacs.d /home/vagrant/.emacs.d
@@ -22,6 +24,8 @@ if (! (/home/vagrant/bin/lein version 2> /dev/null | grep -q 'Leiningen')); then
   echo System has Leiningen installed
 fi
 
-echo "Setting environment variables on vhost {$VHOST}..."
-echo "export DISPLAY=10.0.2.2:0.0" 	>> /home/vagrant/.bashrc
+VHOST=`netstat -rn | grep "^0.0.0.0 " | cut -d " " -f10`
+
+echo "Setting environment variables on vhost [$VHOST]..."
+echo "export DISPLAY=$VHOST:0.0" 	>> /home/vagrant/.bashrc
 
