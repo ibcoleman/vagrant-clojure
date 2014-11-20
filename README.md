@@ -29,3 +29,8 @@ bash$ emacs &
 
 All Done.
 
+To add Scala support (if you're into that sort of thing):
+```bash
+wget https://dl.bintray.com/sbt/debian/sbt-0.13.6.deb -O /tmp/sbt-0.13.6.deb
+sudo dpkg -i !$
+```
