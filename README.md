@@ -34,3 +34,13 @@ To add Scala support (if you're into that sort of thing):
 wget https://dl.bintray.com/sbt/debian/sbt-0.13.6.deb -O /tmp/sbt-0.13.6.deb
 sudo dpkg -i !$
 ```
+
+Update: I added docker support, since it's fairly small and useful for dev. One odd issue with the bootstrap.sh file: It adds the required docker entry to apt-get's repo list, but apt-get fails to detect the update. So in order to get docker you need to:
+
+```bash
+> vagrant up
+> vagrant reload --provision
+```
+
+Not sure exactly what's going on.
+
