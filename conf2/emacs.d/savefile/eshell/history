@@ -1,0 +1,86 @@
+ls
+dir
+cd ..
+ls -la
+cd ..
+svn info
+cd ..
+ls -la
+svn status
+svn info
+cd ../../..
+svn status
+cd afge/afge_main/
+svn status
+svn info
+svn ls https://svn.q-industries.com/afge/branches
+svn --force-interactive ls https://svn.q-industries.com/afge/branches
+Last Changed Rev: 364
+java
+cd ../../aipac_cms/
+cd ../aipac_acs-preselectsso/cd .
+cd ..
+cd aipac_acs
+cd aipac
+cd aipac_acs
+ls
+cd aipac_clean/
+mvn -Pdev clean package
+mvn -Pdev clean package
+mvn -Pdev clean package
+[INFO] Processing war project
+mvn -Pdev package
+mvn -Pdev package
+pwd
+ls -la
+cd Projects/j
+cd Projects/j
+cd Projects/
+dir
+mkdir ~/local_projects
+cp -Rvp clojure/ ~/local_projects/
+cp: making directory /home/lsvagrant/local_projects/clojure/reagent-example/test/reagent_example
+cd ../local_projects/
+cd clojure/
+dir
+cd reagent-example/
+ls -la
+lein cljsbuild auto dev
+lein cljsbuild auto dev
+lein clean
+lein deps
+lein deps
+lein ring server
+lein cljsbuild clean
+lein cljsbuild clean dev
+lein cljsbuild once dev
+lein cljsbuild auto dev
+lein cljsbuild clean dev
+lein cljsbuild once dev
+lein ring server
+cd Projects/
+cd clojure/
+ls -la
+cd reagent-example/
+ls -la
+cd ../../..
+ls -la
+cd ..
+ls -la
+cd ..
+ls -la
+lein ring server
+cd ../../clojure/reagent-example/
+ls -la
+lein cljsbuild auto dev
+lein ring server
+lein ring server
+cd Projects/clojure/reagent-example/
+ls -la
+lein cljsbuild auto dev
+lein cljsbuild clean
+lein cljsbuild auto dev
+ssh root@aipac-new.q-industries.com
+mvn clean packae
+cd ../emacs-solarized/
+ls -la

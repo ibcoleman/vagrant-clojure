@@ -1,0 +1,203 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/vagrant/.emacs.d/" . "personal/")
+ ("/home/vagrant/Projects/aipac_preselect/" . "site/")
+ ("/home/vagrant/Projects/afge/afge_main/" . "documentation/")
+ ("/home/vagrant/Projects/afge/AFGEWeb/" . "AFGEWeb/")
+ ("/home/vagrant/Projects/afge/" . "afge_main/")
+ ("/" . "home/")
+ ("/home/vagrant/Projects/clojure/reagent-example/src/" . "reagent_example/")
+ ("/home/vagrant/Projects/scala/" . "scala-spring-v3/")
+ ("/home/vagrant/Projects/clojure/reagent-example/src-cljs/" . "main/")
+ ("/home/vagrant/Projects/clojure/reagent-example/" . "src-cljs/")
+ ("/home/vagrant/Projects/clojure/" . "reagent-example/")
+ ("/home/vagrant/Projects/" . "aipac_headless/")
+ ("/home/vagrant/" . "Projects/")
+ ("/home/vagrant/local_projects/clojure/" . "reagent-example/")
+ ("/home/" . "vagrant/")
+ ("/home/icoleman/Projects/afge/afge_main/assets/static/AFGE-2/" . "css/")
+ ("/home/icoleman/Projects/afge/afge_main/assets/static/" . "AFGE-2/")
+ ("/home/icoleman/Projects/afge/afge_main/assets/" . "static/")
+ ("/home/icoleman/Projects/afge/afge_main/" . "assets/")
+ ("/home/icoleman/Projects/afge/" . "afge_main/")
+ ("/home/icoleman/Projects/" . "aipac_headless/")
+ ("/home/icoleman/" . "Projects/")
+ ("/home/icoleman/.emacs.d/" . "personal/")
+ ("/home/icoleman/Projects/clojure/clojure-koans/src/" . "koans/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/vagrant/Projects/aipac_headless/"
+ "/home/vagrant/.emacs.d/personal/"
+ "/home/vagrant/.emacs.d/"
+ "/home/vagrant/Projects/emacs-solarized/"
+ "/home/vagrant/Projects/aipac_services/"
+ "/home/vagrant/Projects/aipac_preselect/site/"
+ "/home/vagrant/Projects/afge/afge_main/documentation/"
+ "/home/vagrant/Projects/aipac_headless/src/main/java/org/aipac/acs/web/service/"
+ "/home/vagrant/Projects/clojure/reagent-example/"
+ "/home/vagrant/Projects/clojure/reagent-example/src/reagent_example/"
+ "/home/vagrant/Projects/scala/scala-spring-v3/"
+ "/home/vagrant/Projects/aipac_clean/"
+ "/home/vagrant/Projects/clojure/reagent-example/src-cljs/main/"
+ "/home/vagrant/"
+ "/home/vagrant/local_projects/clojure/reagent-example/"
+ "/home/icoleman/Projects/aipac_headless/"
+ "/home/icoleman/Projects/node/hello/"
+ "/home/icoleman/Projects/afge/afge_main/"
+ "/home/icoleman/Projects/afge/afge_main/assets/static/AFGE-2/css/"
+ "/home/icoleman/.emacs.d/personal/"
+ "/home/icoleman/Projects/clojure/clojure-koans/src/koans/"
+ "/home/icoleman/Projects/clojure/clojure-koans/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "pom.xml"
+ "local.el"
+ "init.el"
+ "setup-cygwin.el.bad"
+ "README.md"
+ "OAuthTest.php"
+ "ACL_Mappings.txt"
+ "Project_Installation.README"
+ "ToDo.txt"
+ "SalesforceUpdateServiceImpl.java"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/vagrant/Projects/aipac_headless/" (21614 11377 495413 400000) "tomcatTasks.properties" "target/" "svnjavahl.jar" "svnClientAdapter.jar" "svnant.jar" "src/" "release.sh" "release/" "quark/" "pom.xml" "lib/" "hibernate.properties" "etc/" "docs/" "build.xml" "build-tomcat.xml" "build-release.xml" "build-maven.xml" "acs.iml" ".svn/" ".idea/" ".externalToolBuilders/" "../" "./")
+
+ ("/home/vagrant/Projects/" (21615 38271 746805 900000) "wif_providers/" "ulmer/" "thacker-v2/" "thacker-v1/" "thacker/" "tax-analysts/" "stswebapidemo/" "src/" "solarized/" "Servers/" "scala/" "RemoteSystemsTempFiles/" "preselect_export/" "packages/" "owin-demo/" "nthp-savingplaces/" "node/" "memetoclasm/" "katana.v11.suo" "katana.sln" "katana/" "kalorama-clean/" "kalorama/" "java_sandbox/" "htmlboilerplate.tgz" "html5boilerplate/" "HelloWorld.iml" "hello-play-scala/" "git-cookbook/" "fb_verify/" "fairwinds/" "examples/" "EPI/" "docker-dev/" "demonstrations/" "clojure/" "clean-acs-configurator.tgz" "clean-acs-configurator/" "clc2s-3.0.3/" "auditTableDiffer/" "AuditDiffer/" "aipac_ss/" "aipac_services/" "aipac_preselect/" "aipac_mobilescanner/" "aipac_kiosks/" "aipac_headless/" "aipac_cms/" "aipac_clean.old/" "aipac_clean/" "aipac_bulkwebservices/" "aipac_acs_ssomerge/" "aipac_acs-preselectsso/" "aipac-logs/" "afgehq2/" "afge/" ".metadata/" ".idea/" "../" "./")
+
+ ("/home/vagrant/.emacs.d/personal/" (21615 38951 726939 265000) "setup-cygwin.el.bad" "../" "local.el" "./" "preload/" ".gitkeep")
+
+ ("/home/vagrant/.emacs.d/" (21615 38943 682939 21000) "README.md" ".projectile" ".git/" ".emacs.d/" "../" "prelude-modules.el" "elpa/" "utils/" "var/" "init.el" "sample/" "themes/" "auto-save-list/" ".gitignore" "core/" "personal/" "./" "modules/" "CONTRIBUTING.md" "savefile/" "projectile-bookmarks.eld" "vendor/")
+
+ ("/home/vagrant/Projects/emacs-solarized/" (21615 37709 401305 900000) "README.md" "LICENSE" "color-theme-solarized.el" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_services/" (21615 36613 405714 300000) "target/" "src/" "services.iml" "pom.xml" "distrib.pom.xml" ".svn/" ".idea/" "../" "./")
+
+ ("/home/vagrant/" (21614 1269 595184 390000) ".lein/" ".ssh/" ".emacs.d/" "Projects/" ".viminfo" ".vim/" ".profile" ".dbus/" "../" "www.agencyq.com/" ".erc/" ".subversion/" ".bash_logout" ".bash_history" "local_projects/" ".links2/" ".ivy2/" "./" ".sbt/" ".cache/" ".gconf/" "bin/" ".bashrc" ".m2/" "leinsetup.sh")
+
+ ("/home/vagrant/Projects/aipac_preselect/site/" (21556 15920 808020 300000) "wsdl/" "views/" "user.old.php" "styles/" "scripts/" "OAuthTest.php" "models/" "libraries/" "index.php" "images/" "favicon.ico" "controllers/" "config/" "classes/" "api/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_headless/src/" (21573 23932 616165 700000) "test/" "main/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_headless/src/main/" (21573 23960 407165 700000) "webapp/" "sql/" "resources/" "java/" "jasperreports/" "filters/" "config/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_headless/src/main/java/" (21573 23933 150165 700000) "org/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_headless/src/main/java/org/" (21573 23933 153165 700000) "aipac/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_headless/src/main/java/org/aipac/" (21573 23933 156165 700000) "acs/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_headless/src/main/java/org/aipac/acs/" (21573 23957 555165 700000) "wicketmodels/" "web/" "util/" "service/" "seating/" "provider/" "programs/" "pdf/" "model/" "listeners/" "jobs/" "interfaces/" "interceptor/" "integration/" "exceptions/" "dao/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_headless/src/main/java/org/aipac/acs/web/" (21573 23945 990165 700000) "servlet/" "service/" "security/" "page/" "dataproviders/" "component/" "application/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_headless/src/main/java/org/aipac/acs/web/service/" (21613 3934 481803 500000) "SupportServiceImpl.java" "SalesforceUpdateServiceImpl.java" "SalesforceServiceImpl.java" "SalesforceRegistrationService.java" "SalesforceParticipantService.java" "SalesforceEventService.java" "SalesforceBookingService.java" "ProfileServiceImpl.java" "PledgeServiceImpl.java" "PaymentServiceImpl.java" "OutboundMessageServiceImpl.java" "OutboundMessageService.java" "OAuthCallbackService.java" "KioskServiceImpl.java" "EventServiceImpl.java" "CredentialCheckInServiceImpl.java" "BulkServiceImpl.java" "../" "./")
+
+ ("/home/vagrant/Projects/afge/afge_main/documentation/" (21611 40075 808702 100000) "ToDo.txt" "Project_Installation.README" "ACL_Mappings.txt" "../" "./")
+
+ ("/home/vagrant/Projects/afge/afge_main/" (21606 12255 110242 500000) "templates/" "svn.exe.stackdump" "site/" "node_modules/" "licenses/" "installer/" "documentation/" "assets/" ".svn/" "../" "./")
+
+ ("/home/vagrant/Projects/afge/afge_clean/" (21603 53133 282269 300000) "vnqq" "packages/" "Lucene.Search/" "db/" "AFGEWeb.v11.suo" "AFGEWeb.sln.DotSettings.user" "AFGEWeb.sln" "AFGEWeb/" ".svn/" ".nuget/" "../" "./")
+
+ ("/home/vagrant/Projects/afge/AFGEWeb/AFGEWeb/" (21522 9885 671742 700000) "Web.Release.config" "Web.Okta.config" "Web.Okta Release.config" "Web.Okta Debug.config" "Web.Debug.config" "Web.config" "Views/" "Ultilities/" "type/" "Static/" "Security/" "Properties/" "packages.config" "obj/" "modules/" "Models/" "mobile/" "js/" "IndexingService/" "include/" "img/" "Helpers/" "Global.asax.cs" "Global.asax" "EPiServerLog.config" "EF/" "css/" "Controllers/" "Content/" "Business/" "bin/" "App_Data/" "App_Code/" "AFGE_EPIserver.log" "AFGEWeb.csproj.vspscc" "AFGEWeb.csproj.user" "AFGEWeb.csproj" "../" "./")
+
+ ("/home/vagrant/Projects/afge/AFGEWeb/" (21522 5953 881325 500000) "packages/" "Lucene.Search/" "AFGEWeb.vssscc" "AFGEWeb.v12.suo" "AFGEWeb.sln" "AFGEWeb/" ".nuget/" "../" "./")
+
+ ("/home/vagrant/Projects/afge/" (21594 41302 183778 0) "afge_templates/" "afge_main/" "afge_legacy/" "afge_clean/" "afge_assets/" "AFGEWeb.db/" "AFGEWeb/" "$tf/" "../" "./")
+
+ ("/home/vagrant/Projects/afgehq2/" (21523 5974 222644 700000) "Legacy Website Code Provided to AgencyQ/" "BuildProcessTemplates/" "AFGEWeb.db/" "AFGEWeb/" "$tf/" "../" "./")
+
+ ("/home/vagrant/.emacs.d/elpa/" (21609 8605 61520 554000) "volatile-highlights-20141004.2240/" "cygwin-mount-20131111.2146/" "web-mode-20141112.2327/" "diff-hl-20141107.331/" "expand-region-20140610.1519/" "json-snatcher-20140527.2147/" "ac-cider-20141013.1019/" "json-reformat-20141108.1618/" "makey-20131231.630/" "sbt-mode-20141110.1116/" "pcache-20131201.1159/" "elisp-slime-nav-20140619.254/" "javap-mode-20120223.1408/" "flx-20140921.739/" "archives/" "ov-20140817.552/" "ace-jump-mode-20140616.115/" "../" "ido-ubiquitous-20140904.1547/" "flycheck-20141102.652/" "magit-20141104.647/" "discover-my-major-20140510.1007/" "smex-20141027.245/" "logito-20120225.1255/" "git-commit-mode-20141014.1634/" "flx-ido-20140821.2033/" "async-20141001.151/" "cider-decompile-20131116.1002/" "zenburn-theme-20141112.923/" "cider-20141113.1508/" "git-rebase-mode-20140928.1547/" "god-mode-20140811.1125/" "js2-mode-20141113.924/" "scala-mode2-20141105.514/" "popup-20141002.320/" "guru-mode-20140905.702/" "markdown-mode-20140914.1012/" "git-timemachine-20141107.1305/" "diminish-20091203.1012/" "anzu-20141005.1955/" "rainbow-mode-0.10/" "gist-20140706.1503/" "ac-cider-readme.txt" "auto-complete-20141111.2346/" "browse-kill-ring-20141104.1240/" "helm-projectile-all-20140429.952/" "ace-jump-buffer-20141107.1317/" "geiser-20141031.1951/" "easy-kill-20141001.847/" "company-20141108.1756/" "./" "scala-mode-20140310.735/" "helm-projectile-20141113.18/" "json-mode-20141105.138/" "magit-gerrit-20141102.2233/" "dash-20141106.455/" "ace-window-20141107.10/" "projectile-20141111.2339/" "queue-0.1.1/" "operate-on-number-20140522.430/" "pkg-info-20140610.630/" "smartparens-20141107.1100/" "ack-and-a-half-20130815.1917/" "gitconfig-mode-20140605.520/" "helm-20141114.8/" "chess-2.0.4/" "smartrep-20140404.1714/" "s-20140910.334/" "grizzl-20130810.202/" "epl-20140823.609/" "move-text-20140307.1644/" "ac-helm-20140919.917/" "gh-20140706.1506/" "undo-tree-20140509.522/" "gitignore-mode-20140605.520/" "clojure-mode-20141101.1/" "rainbow-delimiters-20141107.1253/")
+
+ ("/home/vagrant/.emacs.d/elpa/flx-ido-20140821.2033/" (21605 27400 23344 300000) "../" "flx-ido.elc" "flx-ido-pkg.el" "./" "flx-ido-autoloads.el" "flx-ido-pkg.elc" "flx-ido.el")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/" (21609 26656 806219 400000) "test/" "target/" "src-cljs/" "src/" "resources/" "reagent_example.log" "reagent_example.iml" "reagent-example.iml" "README.md" "project.clj" ".nrepl-port" ".lein-repl-history" ".lein-env" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/src/" (21590 22377 231242 300000) "reagent_example/" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/src/reagent_example/" (21590 22377 238243 0) "routes/" "repl.clj" "middleware.clj" "layout.clj" "handler.clj" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/resources/" (21590 22377 225241 700000) "templates/" "public/" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/resources/public/" (21609 5082 949739 300000) "js/" "css/" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/resources/public/js/" (21609 5104 858521 400000) "reagent/" "main/" "goog/" "clojure/" "cljs/" "app.js" "ajax/" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/resources/public/js/ajax/" (21609 5088 652463 500000) "core.js.map" "core.js" "core.cljs" "../" "./")
+
+ ("/home/vagrant/Projects/scala/scala-spring-v3/" (21609 10224 899602 200000) "target/" "src/" "README.md" "projectFilesBackup/" "project/" "out/" "build.sbt" ".idea/" ".history" ".git/" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_clean/" (21609 8307 706635 500000) "tomcatTasks.properties" "svnjavahl.jar" "svnClientAdapter.jar" "svnant.jar" "src/" "release.sh" "quark/" "pom.xml" "lib/" "hibernate.properties" "etc/" "docs/" "build.xml" "build-tomcat.xml" "build-release.xml" "build-maven.xml" "acs.iml" ".svn/" ".externalToolBuilders/" "../" "./")
+
+ ("/home/" (21609 2617 540729 744000) "vagrant/" "ubuntu/" "../" "./")
+
+ ("/home/vagrant/Projects/scala/scala-spring-v3/src/" (21544 18279 432715 500000) "test/" "main/" "../" "./")
+
+ ("/home/vagrant/Projects/scala/scala-spring-v3/src/main/" (21544 18703 141950 300000) "webapp/" "scala/" "resources/" "java/" "../" "./")
+
+ ("/home/vagrant/Projects/scala/scala-spring-v3/src/main/scala/" (21556 38035 957828 900000) "Config.scala" "com/" "../" "./")
+
+ ("/home/vagrant/Projects/scala/" (21573 37662 641309 200000) "xoxo-feeds/" "todolist/" "test-patterns-scala/" "scripts/" "scala-spring-v3/" "scala-koans/" "RUNNING_PID" "angular-lift-scala/" "akka-sample-camel-scala/" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/src-cljs/main/" (21609 5146 234775 500000) "core.cljs" "../" "./")
+
+ ("/home/vagrant/Projects/aipac_preselect/" (21549 47475 373549 700000) "tests/" "templates/" "site/" "logs/" "documentation/" "deploy/" "db/" "cli/" "cache/" "build-tools/" "aipac_preselect.iml" ".svn/" ".idea/" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/reagent-example/src-cljs/" (21590 22377 228242 0) "main/" "../" "./")
+
+ ("/home/vagrant/Projects/clojure/" (21596 14243 172001 900000) "reagent-example/" "projecta/" "clojure-koans/" "../" "./")
+
+ ("/home/vagrant/local_projects/clojure/reagent-example/" (21609 3010 586671 765000) "README.md" ".lein-repl-history" ".git/" "src/" "src-cljs/" ".lein-env" "../" "reagent_example.iml" "reagent-example.iml" "project.clj" "target/" ".idea/" "test/" ".gitignore" "./" ".nrepl-port" "resources/" "reagent_example.log")
+
+ ("/home/vagrant/local_projects/clojure/" (21609 2963 995388 865000) "../" "projecta/" "clojure-koans/" "./" "reagent-example/")
+
+ ("/home/icoleman/Projects/aipac_headless/" (21573 24020 635165 700000) "tomcatTasks.properties" "svnjavahl.jar" "svnClientAdapter.jar" "svnant.jar" "src/" "release.sh" "quark/" "pom.xml" "lib/" "hibernate.properties" "etc/" "docs/" "build.xml" "build-tomcat.xml" "build-release.xml" "build-maven.xml" "acs.iml" ".svn/" ".idea/" ".externalToolBuilders/" "../" "./")
+
+ ("/home/icoleman/Projects/" (21606 11873 33242 500000) "wif_providers/" "vagrant-docker/" "vagrant-clean/" "ulmer/" "thacker-v2/" "thacker-v1/" "thacker/" "tax-analysts/" "stswebapidemo/" "src/" "Servers/" "scala/" "RemoteSystemsTempFiles/" "preselect_export/" "packages/" "owin-demo/" "nthp-savingplaces/" "node/" "memetoclasm/" "log.roo" "katana.v11.suo" "katana.sln" "katana/" "kalorama-clean/" "kalorama/" "jenise-epi.tgz" "java_sandbox/" "htmlboilerplate.tgz" "html5boilerplate/" "HelloWorld.iml" "hello-play-scala/" "git-cookbook/" "fb_verify/" "fairwinds/" "examples/" "EPI/" "docker-dev/" "demonstrations/" "clojure/" "clean-acs-configurator.tgz" "clean-acs-configurator/" "clc2s-3.0.3/" "auditTableDiffer/" "AuditDiffer/" "aipac_ss/" "aipac_services/" "aipac_preselect/" "aipac_mobilescanner/" "aipac_kiosks/" "aipac_headless/" "aipac_cms/" "aipac_clean/" "aipac_bulkwebservices/" "aipac_acs_ssomerge/" "aipac_acs-preselectsso/" "aipac-logs/" "afgehq2/" "afge/" "20141017-preselect-prod.tgz" ".metadata/" ".idea/" "../" "./")
+
+ ("/home/icoleman/Projects/aipac_clean/" (21606 7007 451127 300000) "tomcatTasks.properties" "target/" "svnjavahl.jar" "svnClientAdapter.jar" "svnant.jar" "svn.exe.stackdump" "src/" "scratch.xml" "release.sh" "release/" "quark/" "pom.xml" "logs/" "lib/" "hibernate.properties" "GM_IA_File.csv.status" "GM_IA_File.csv.failed" "etc/" "docs/" "build.xml" "build-tomcat.xml" "build-release.xml" "build-maven.xml" "aipac_clean.iml" "activemq-data/" "acs.iml" ".svn/" ".idea/" ".externalToolBuilders/" "../" "./")
+
+ ("/home/icoleman/Projects/afge/afge_main/assets/static/AFGE-2/css/" (21606 6172 121602 700000) "screen.less" "screen.css" "bootstrap.less" "bootstrap.css" ".#bootstrap.css" "../" "./")
+
+ ("/home/icoleman/Projects/afge/afge_main/assets/static/AFGE-2/" (21484 56447 631395 400000) "type/" "mobile/" "js/" "index.html" "img/" "css/" "../" "./")
+
+ ("/home/icoleman/Projects/afge/afge_main/assets/static/" (21484 56445 894221 700000) "AFGE-2/" "../" "./")
+
+ ("/home/icoleman/Projects/afge/afge_main/assets/" (21484 56445 887221 0) "static/" "../" "./")
+
+ ("/home/icoleman/Projects/afge/afge_main/" (21602 17060 581129 200000) "templates/" "svn.exe.stackdump" "site/" "licenses/" "installer/" "documentation/" "assets/" ".svn/" "../" "./")
+
+ ("/home/icoleman/Projects/afge/$tf/" (21522 5970 104947 700000) "properties.tf1" "pendingchanges.tfb" "pendingchanges.tf1" "localversion.tfb" "localversion.tf1" "9/" "8/" "7/" "6/" "5/" "4/" "3/" "2/" "15/" "14/" "13/" "12/" "11/" "10/" "1/" "0/" "../" "./")
+
+ ("/home/icoleman/Projects/afge/" (21594 41302 183778 0) "afge_templates/" "afge_main/" "afge_legacy/" "afge_clean/" "afge_assets/" "AFGEWeb.db/" "AFGEWeb/" "$tf/" "../" "./")
+
+ ("/home/icoleman/" (21605 34210 718893 800000) "VirtualBox VMs/" "test/" "Projects/" "News/" "mysql-connector-java-gpl-5.1.30.msi" "GM_IA_File.csv.status" "emacs.d.old/" "emacs-w32.exe.stackdump" "emacs-d.zip" "ec2-api-tools.zip" "AgencyQOpenSSH" ".Xauthority" ".VirtualBox/" ".vimrc" ".subversion/" ".ssh/" ".sqlite_history" ".rnd" ".psql_history" ".profile" ".newsrc-dribble" ".minttyrc" ".lesshst" ".inputrc" ".gnupg/" ".gitconfig" ".git-credential-cache/" ".gem/" ".erc/" ".emacs.d.pre-prelude.tar!home/" ".emacs.d/" ".bash_profile" ".bash_history" ".bashrc" "../" "./")
+
+ ("/usr/" (21605 33808 634895 900000) "lib/" "bin/" "x86_64-w64-mingw32/" "x86_64-pc-cygwin/" "tmp/" "ssl/" "src/" "share/" "sbin/" "local/" "libexec/" "include/" "../" "./")
+
+ ("/usr/bin/" (21605 33848 13148 200000) "[.exe" "zsoelim.exe" "znew" "zmore" "zless" "zipinfo" "zipgrep" "zgrep" "zforce" "zfgrep" "zegrep" "zdiff" "zcmp" "zcat" "yes.exe" "xzmore" "xzless" "xzgrep" "xzfgrep" "xzegrep" "xzdiff" "xzdec.exe" "xzcmp" "xzcat" "xz.exe" "xxd.exe" "XWin.exe" "xterm.exe" "xsubpp" "xrdb.exe" "xpdf.exe" "Xorg.exe" "xorg-crashreport" "xorg-backtrace" "xmodmap.exe" "xmllint.exe" "xmlcatalog.exe" "xkbcomp.exe" "xinit.exe" "xhost.exe" "xfce4-terminal.exe" "xauth.exe" "xargs.exe" "x86_64-pc-cygwin-gcc.exe" "x86_64-pc-cygwin-gcc-ranlib.exe" "x86_64-pc-cygwin-gcc-nm.exe" "x86_64-pc-cygwin-gcc-ar.exe" "x86_64-pc-cygwin-gcc-4.8.3.exe" "x86_64-pc-cygwin-g++.exe" "x86_64-pc-cygwin-c++.exe" "X" "wish8.5.exe" "wish" "windres.exe" "windmc.exe" "whoami.exe" "who.exe" "which.exe" "whereis.exe" "whatis.exe" "wget.exe" "wc.exe" "vimtutor" "vimdiff" "vim.exe" "view" "vi.exe" "vdir.exe" "uxterm" "uuidgen.exe" "users.exe" "urxvtd.exe" "urxvtd-X" "urxvtc.exe" "urxvtc-X" "urxvt.exe" "urxvt-X" "updatedb" "update-mime-database.exe" "update-desktop-database.exe" "update-ca-trust" "unzipsfx.exe" "unzip.exe" "unxz" "unlzma" "unlink.exe" "uniq.exe" "unexpand.exe" "uname.exe" "umount.exe" "ul.exe" "tzset.exe" "tty.exe" "tsort.exe" "trust.exe" "truncate.exe" "true.exe" "troff.exe" "tr.exe" "touch.exe" "timeout.exe" "thor.bat" "thor" "tftpd-config" "tftp.exe" "tfmtodit.exe" "texi2any" "testrb" "test.exe" "telnet.exe" "tee.exe" "tcsh.exe" "tclsh8.5.exe" "tclsh" "tbl.exe" "tar.exe" "talk.exe" "tailf.exe" "tail.exe" "tac.exe" "syslogd-config" "sync.exe" "svnversion.exe" "svnsync.exe" "svnserve.exe" "svnrdump.exe" "svnmucc.exe" "svnlook.exe" "svndumpfilter.exe" "svnadmin.exe" "svn.exe" "svn-tools/" "sum.exe" "stty.exe" "strip.exe" "strings.exe" "strace.exe" "stat.exe" "startxwin.exe" "startxdmcp.bat" "startx" "ssp.exe" "ssh.exe" "ssh-user-config" "ssh-keyscan.exe" "ssh-keygen.exe" "ssh-host-config" "ssh-copy-id" "ssh-agent.exe" "ssh-add.exe" "sqlite3.exe" "split.exe" "splain" "sort.exe" "soelim.exe" "smtpd.py" "slogin" "sleep.exe" "size.exe" "shuf.exe" "shred.exe" "shasum" "sha512sum.exe" "sha384sum.exe" "sha256sum.exe" "sha224sum.exe" "sha1sum.exe" "sh.exe" "sftp.exe" "setsid.exe" "setmetamode.exe" "setfacl.exe" "set-emacs-default-w32.sh" "seq.exe" "sed.exe" "sdiff.exe" "scriptreplay.exe" "script.exe" "scp.exe" "safe_yaml.bat" "safe_yaml" "s2p" "rvim" "rview" "rvi" "runcon.exe" "run.exe" "ruby.exe" "rsync.exe" "rmdir.exe" "rm.exe" "ri" "rev.exe" "resize.exe" "renice.exe" "rename.exe" "reindexdb.exe" "regtool.exe" "refer.exe" "rebaseall" "rebase.exe" "realpath.exe" "readshortcut.exe" "readlink.exe" "readelf.exe" "rdoc" "ranlib.exe" "rake" "python2.7.exe" "python2.7-config" "python2-config" "python2" "python-config" "python" "pygettext.py" "pydoc" "pwd.exe" "ptx.exe" "ptargrep" "ptardiff" "ptar" "pstruct" "psql.exe" "psed" "ps.exe" "prove" "printf.exe" "printenv.exe" "preconv.exe" "pre-grohtml.exe" "pr.exe" "post-grohtml.exe" "podselect" "podchecker" "pod2usage" "pod2text" "pod2texi" "pod2man" "pod2latex" "pod2html" "pldd.exe" "pl2pm" "pinky.exe" "piconv" "pic2graph" "pic.exe" "pg_receivexlog.exe" "pg_isready.exe" "pg_dumpall.exe" "pg_dump.exe" "pg_basebackup.exe" "pg.exe" "pfbtops.exe" "perlthanks" "perlivp" "perldoc" "perlbug" "perl5.14.4.exe" "perl.exe" "peflagsall" "peflags.exe" "pdfroff" "pathchk.exe" "paste.exe" "passwd.exe" "pango-view.exe" "pango-querymodules.exe" "p11-kit.exe" "openssl.exe" "oldfind.exe" "od.exe" "objdump.exe" "objcopy.exe" "numfmt.exe" "nroff" "nproc.exe" "nohup.exe" "nm.exe" "nl.exe" "nice.exe" "neqn" "namei.exe" "mv.exe" "msgfmt.py" "mount.exe" "more.exe" "mktemp.exe" "mkshortcut.exe" "mkpasswd.exe" "mknod.exe" "mkgroup.exe" "mkfontscale.exe" "mkfontdir" "mkfifo.exe" "mkdir.exe" "mintty.exe" "minitar.bat" "minitar" "minidumper.exe" "messagebus-config" "md5sum.exe" "mcpp.exe" "mcookie.exe" "mate-terminal.wrapper" "mate-terminal.exe" "manpath.exe" "mandb.exe" "man.exe" "makeinfo" "make.exe" "make-emacs-shortcut" "lzmore" "lzmainfo.exe" "lzmadec.exe" "lzma" "lzless" "lzgrep" "lzfgrep" "lzegrep" "lzdiff" "lzcmp" "lzcat" "lynx.exe" "luit.exe" "ls.exe" "lookbib.exe" "look.exe" "logname.exe" "login.exe" "logger.exe" "locate.exe" "locale.exe" "ln.exe" "lkbib.exe" "links.exe" "link.exe" "libtk8.5.dll" "libtcl8.5.dll" "libpython2.7.dll" "libnetcfg" "lftpget" "lftp.exe" "lexgrog.exe" "lesskey.exe" "lessecho.exe" "less.exe" "ldh.exe" "ldd.exe" "ld.exe" "ld.bfd.exe" "lastlog.exe" "koi8rxterm" "kitchen.bat" "kitchen" "kill.exe" "json_pp" "join.exe" "iu-config" "isosize.exe" "irb" "ipcs.exe" "ipcrm.exe" "ipcmk.exe" "instmodsh" "install.exe" "install-info.exe" "infokey.exe" "info.exe" "indxbib.exe" "igawk" "id.exe" "iconv.exe" "hpftodit.exe" "hostname.exe" "hostid.exe" "hexdump.exe" "head.exe" "h2xs" "h2ph" "gzip.exe" "gzexe" "gunzip" "gtk-update-icon-cache.exe" "gtk-query-immodules-2.0.exe" "gsettings.exe" "groups.exe" "grotty.exe" "grops.exe" "grolj4.exe" "grolbp.exe" "groff.exe" "grodvi.exe" "grn.exe" "grep.exe" "grep-changelog" "grap2graph" "gprof.exe" "gpgv.exe" "gpgsplit.exe" "gpg.exe" "gpg-zip" "gobject-query.exe" "glib-compile-schemas.exe" "gkill.exe" "git.exe" "git-upload-pack.exe" "git-upload-archive.exe" "git-shell.exe" "git-receive-pack.exe" "gio-querymodules.exe" "getopt.exe" "getfacl.exe" "getent.exe" "getconf.exe" "gem" "gdk-pixbuf-query-loaders.exe" "gdiffmk" "gdbus.exe" "gdbserver.exe" "gdb.exe" "gcov.exe" "gcc.exe" "gcc-ranlib.exe" "gcc-nm.exe" "gcc-ar.exe" "gawk.exe" "gawk-4.1.1.exe" "g++.exe" "funzip.exe" "ftp.exe" "fold.exe" "fmt.exe" "flock.exe" "find2perl" "find.exe" "file.exe" "fgrep" "fc-validate.exe" "fc-scan.exe" "fc-query.exe" "fc-pattern.exe" "fc-match.exe" "fc-list.exe" "fc-cat.exe" "fc-cache.exe" "false.exe" "factor.exe" "expr.exe" "expand.exe" "ex" "erb" "eqn2graph" "eqn.exe" "env.exe" "enc2xs" "emacsclient-w32.exe" "emacsclient-nox.exe" "emacsclient" "emacs.ico" "emacs-w32.exe.stackdump" "emacs-w32.exe" "emacs-nox.exe" "emacs" "elfedit.exe" "egrep" "editrights.exe" "echo.exe" "ebrowse.exe" "dumper.exe" "du.exe" "dropdb.exe" "dprofpp" "domainname" "dnsdomainname" "dllwrap.exe" "dlltool.exe" "dirname.exe" "dircolors.exe" "dir.exe" "diff3.exe" "diff.exe" "df.exe" "desktop-file-validate.exe" "desktop-file-install.exe" "desktop-file-edit" "dd.exe" "dbus-uuidgen.exe" "dbus-send.exe" "dbus-monitor.exe" "dbus-launch.exe" "dbus-daemon.exe" "dbus-cleanup-sockets.exe" "date.exe" "dash.exe" "c_rehash" "cygz.dll" "cygyaml-0-2.dll" "cygXt-6.dll" "cygXss-1.dll" "cygXrender-1.dll" "cygXrandr-2.dll" "cygXpm-noX-4.dll" "cygXpm-4.dll" "cygXmuu-1.dll" "cygXmu-6.dll" "cygxml2-2.dll" "cygXm-4.dll" "cygxkbfile-1.dll" "cygXinerama-1.dll" "cygXi-6.dll" "cygXft-2.dll" "cygXfont-1.dll" "cygXfixes-3.dll" "cygxfce4util-6.dll" "cygxfce4ui-1-0.dll" "cygXext-6.dll" "cygXdmcp-6.dll" "cygXdamage-1.dll" "cygXcursor-1.dll" "cygXcomposite-1.dll" "cygxcb-util-1.dll" "cygxcb-shm-0.dll" "cygxcb-render-0.dll" "cygxcb-image-0.dll" "cygxcb-icccm-4.dll" "cygxcb-glx-0.dll" "cygxcb-1.dll" "cygXaw-7.dll" "cygXau-6.dll" "cygX11-xcb-1.dll" "cygX11-6.dll" "cygwrap-0.dll" "cygwind-0.dll" "cygwin1.dll.orig" "cygwin1.dll" "cygwin1-20141021.dll" "cygwin-console-helper.exe" "cygvte-9.dll" "cyguuid-1.dll" "cygUil-4.dll" "cygtiffxx-6.dll" "cygtiffxx-5.dll" "cygtiff-6.dll" "cygtiff-5.dll" "cygticw-10.dll" "cygthai-0.dll" "cygtasn1-6.dll" "cygt1-5.dll" "cygsvn_wc-1-0.dll" "cygsvn_swig_perl-1-0.dll" "cygsvn_subr-1-0.dll" "cygsvn_repos-1-0.dll" "cygsvn_ra_svn-1-0.dll" "cygsvn_ra_serf-1-0.dll" "cygsvn_ra_local-1-0.dll" "cygsvn_ra-1-0.dll" "cygsvn_fs_util-1-0.dll" "cygsvn_fs_fs-1-0.dll" "cygsvn_fs_base-1-0.dll" "cygsvn_fs-1-0.dll" "cygsvn_diff-1-0.dll" "cygsvn_delta-1-0.dll" "cygsvn_client-1-0.dll" "cygstdc++-6.dll" "cygstartup-notification-1-0.dll" "cygstart.exe" "cygssp-0.dll" "cygssl-1.0.0.dll" "cygssh2-1.dll" "cygsqlite3vfslog-0.dll" "cygsqlite3-0.dll" "cygsmartcols-1.dll" "cygSM-6.dll" "cygserver-config" "cygserf-1-0.dll" "cygsasl2-3.dll" "cygrunsrv.exe" "cygruby200.dll" "cygrsvg-2-2.dll" "cygroken-18.dll" "cygreadline7.dll" "cygquadmath-0.dll" "cygpstoedit-0.dll" "cygproxy-1.dll" "cygpq-5.dll" "cygpopt-0.dll" "cygpng15-15.dll" "cygpixman-1-0.dll" "cygpipeline-1.dll" "cygperl5_14.dll" "cygpcre-1.dll" "cygpath.exe" "cygpaper-1.dll" "cygpangoxft-1.0-0.dll" "cygpangoft2-1.0-0.dll" "cygpangocairo-1.0-0.dll" "cygpango-1.0-0.dll" "cygpanelw-10.dll" "cygp11-kit-0.dll" "cygnettle-4.dll" "cygneon-27.dll" "cygncursesw-10.dll" "cygncurses++w-10.dll" "cygnativeGLthunk.dll" "cygmysqlclient-18.dll" "cygMrm-4.dll" "cygmpfr-4.dll" "cygmpc-3.dll" "cygming-1.dll" "cygmetalink-3.dll" "cygmenuw-10.dll" "cygmcpp-0.dll" "cygman-2-6-7.dll" "cygMagickWand-5.dll" "cygMagickCore-5.dll" "cygMagick++-5.dll" "cygmagic-1.dll" "cyglzo2-2.dll" "cyglzma-5.dll" "cygltdl-7.dll" "cyglsa64.dll" "cyglsa-config" "cygLLVM-3.4.dll" "cygldap_r-2-4-2.dll" "cygldap-2-4-2.dll" "cyglcms2-2.dll" "cyglber-2-4-2.dll" "cygkrb5support-0.dll" "cygkrb5-3.dll" "cygkrb5-26.dll" "cygkafs-0.dll" "cygk5crypto-3.dll" "cygjpeg-8.dll" "cygjbig85-2.dll" "cygjbig-2.dll" "cygjasper-1.dll" "cygisl-10.dll" "cygiodbcinst-2.dll" "cygiodbc-2.dll" "cygintl-8.dll" "cygidn-11.dll" "cygicuuc51.dll" "cygiculx51.dll" "cygicule51.dll" "cygicuio51.dll" "cygicui18n51.dll" "cygicudata51.dll" "cygiconv-2.dll" "cygICE-6.dll" "cyghx509-5.dll" "cyghogweed-2.dll" "cyghistory7.dll" "cygheimntlm-0.dll" "cygheimbase-1.dll" "cygharfbuzz-icu-0.dll" "cygharfbuzz-0.dll" "cyggtk-x11-2.0-0.dll" "cyggthread-2.0-0.dll" "cyggssapi_krb5-2.dll" "cyggssapi-3.dll" "cyggs-9.dll" "cyggraphite2-3.dll" "cyggomp-1.dll" "cyggobject-2.0-0.dll" "cyggnutlsxx-28.dll" "cyggnutls-xssl-0.dll" "cyggnutls-openssl-27.dll" "cyggnutls-28.dll" "cyggmp-10.dll" "cyggmodule-2.0-0.dll" "cygglib-2.0-0.dll" "cygglapi-0.dll" "cygGL-1.dll" "cyggio-2.0-0.dll" "cyggif-4.dll" "cyggdk_pixbuf-2.0-0.dll" "cyggdk-x11-2.0-0.dll" "cyggdbm_compat-4.dll" "cyggdbm-4.dll" "cyggd-2.dll" "cyggcc_s-seh-1.dll" "cygfreetype-6.dll" "cygfpx-1.dll" "cygformw-10.dll" "cygfontenc-1.dll" "cygfontconfig-1.dll" "cygfftw3_threads-3.dll" "cygfftw3f_threads-3.dll" "cygfftw3f-3.dll" "cygfftw3-3.dll" "cygffi-6.dll" "cygfam-0.dll" "cygexpat-1.dll" "cygEMF-1.dll" "cygedit-0.dll" "cygdns_sd-1.dll" "cygdconf-1.dll" "cygdb_sql-5.3.dll" "cygdb_cxx-5.3.dll" "cygdbus-1-3.dll" "cygdb-5.3.dll" "cygdatrie-1.dll" "cygcurl-4.dll" "cygcrypto-1.0.0.dll" "cygcrypt-0.dll" "cygcroco-0.6-3.dll" "cygcom_err-2.dll" "cygcloog-isl-4.dll" "cygcheck.exe" "cygcatgets1.dll" "cygcairo-script-interpreter-2.dll" "cygcairo-gobject-2.dll" "cygcairo-2.dll" "cygbz2-1.dll" "cygblkid-1.dll" "cygavahi-core-7.dll" "cygavahi-common-3.dll" "cygautotrace-3.dll" "cygattr-1.dll" "cygatomic-1.dll" "cygatk-1.0-0.dll" "cygasn1-8.dll" "cygargp-0.dll" "cygarchive-13.dll" "cygaprutil-1-0.dll" "cygapr-1-0.dll" "cut.exe" "curl.exe" "ctest.exe" "csplit.exe" "csh" "crypt.exe" "createdb.exe" "cpp.exe" "cpanp-run-perl" "cpanp" "cpan2dist" "cpan" "cpack.exe" "cp.exe" "corelist" "config_data" "comm.exe" "column.exe" "colrm.exe" "colcrt.exe" "col.exe" "cmp.exe" "cmake.exe" "clusterdb.exe" "cksum.exe" "chroot.exe" "chown.exe" "chmod.exe" "chgrp.exe" "chcon.exe" "cgdb.exe" "ccmake.exe" "cc" "catman.exe" "cat.exe" "cal.exe" "c99" "c89" "c2ph" "c++filt.exe" "c++.exe" "bzmore" "bzless" "bzip2recover.exe" "bzip2.exe" "bzgrep" "bzfgrep" "bzegrep" "bzdiff" "bzcmp" "bzcat.exe" "bunzip2.exe" "bashbug" "bash.exe" "basename.exe" "base64.exe" "awk" "ash.exe" "as.exe" "aria2c.exe" "arch.exe" "ar.exe" "apropos" "addr2line.exe" "addftinfo.exe" "a2p.exe" "2to3" "../" "./")
+
+ ("/home/icoleman/.emacs.d/personal/" (21605 31789 30381 100000) "setup-cygwin.el" "preload/" ".gitkeep" "../" "./")
+
+ ("/home/icoleman/.emacs.d/" (21605 31891 33215 300000) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("/home/icoleman/Projects/clojure/clojure-koans/src/koans/" (21597 35037 537264 100000) "21_group_by.clj" "20_partition.clj" "19_java_interop.clj" "18_datatypes.clj" "17_macros.clj" "16_atoms.clj" "15_refs.clj" "14_destructuring.clj" "13_recursion.clj" "12_creating_functions.clj" "11_sequence_comprehensions.clj" "10_lazy_sequences.clj" "09_runtime_polymorphism.clj" "08_higher_order_functions.clj" "07_conditionals.clj" "06_functions.clj" "05_maps.clj" "04_sets.clj" "03_vectors.clj" "02_lists.clj" "01_equalities.clj" "../" "./")
+
+ ("/home/icoleman/Projects/clojure/clojure-koans/src/" (21596 14244 512078 600000) "koans/" "../" "./")
+
+ ("/home/icoleman/Projects/clojure/clojure-koans/" (21605 30745 942719 900000) "target/" "src/" "script/" "resources/" "README.md" "project.clj" "ideaboard.txt" "epl-v10.html" "clojure_koans.iml" ".nrepl-port" ".lein-failures" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/home/icoleman/Projects/clojure/" (21596 14243 172001 900000) "reagent-example/" "projecta/" "clojure-koans/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

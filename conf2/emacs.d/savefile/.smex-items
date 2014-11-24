@@ -1,0 +1,47 @@
+
+;; ----- smex-history -----
+(
+ projectile-switch-project
+ color-theme-solarized-light
+ package-install
+ color-theme-solarized-dark
+ eshell
+ ediff-scroll-horizontally
+ projectile-grep
+)
+
+;; ----- smex-data -----
+(
+ (man . 1)
+ (eshell . 16)
+ (cider-jack-in . 4)
+ (projectile-find-file-other-window . 1)
+ (projectile-global-mode . 2)
+ (projectile-find-file . 11)
+ (magit-log . 1)
+ (package-install . 6)
+ (make-directory . 1)
+ (shell-command . 1)
+ (package-list-packages . 3)
+ (cider-connect . 1)
+ (term . 1)
+ (print-region . 1)
+ (projectile-commander . 4)
+ (projectile-find-file-in-known-projects . 4)
+ (helm-find . 1)
+ (projectile-switch-project . 12)
+ (projectile-grep . 15)
+ (grep . 1)
+ (sbt-start . 4)
+ (shell . 2)
+ (magit-diff . 2)
+ (kill-line . 1)
+ (vc-update . 1)
+ (yank . 1)
+ (projectile-recentf . 1)
+ (table-widen-cell . 1)
+ (twit . 1)
+ (ediff-scroll-horizontally . 1)
+ (color-theme-solarized-light . 2)
+ (color-theme-solarized-dark . 1)
+)
