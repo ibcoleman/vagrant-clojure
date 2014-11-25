@@ -4,7 +4,7 @@ apt-get update
 apt-get install -y software-properties-common
 apt-get install -y emacs24 chromium-browser
 apt-get install -y default-jdk clojure scala
-apt-get install -y x11-xserver-utils xterm
+apt-get install -y x11-xserver-utils xterm fonts-inconsolata
 apt-get install -y git subversion
 
 
