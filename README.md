@@ -1,6 +1,9 @@
 vagrant-clojure
 ===============
 
+(Update: Need to add empty /config/emacs.d/vendor/ directory. Also need to sudo apt-get install fonts-inconsolata)
+
+
 A clojure development environment consisting of Ubuntu 14.04, Lein 2.0, OpenJDK 1.7, and EMACS 24.4
 
 Vagrant is amazing, first of all. Having said that, in order to stand up a configured Ubuntu 14.04 image w/ Java, Emacs, Clojure, etc.., you need only install vagrant, grab these config files Git repo, and run `vagrant up` from the directory.  This is pretty much self-contained, with a couple of caveats:
